@@ -1,0 +1,10 @@
+# Build results
+Debug/
+bin/
+obj/
+
+# Visual studio files
+.vs/
+
+# System specific
+Properties/
